@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/finm348
 venue: "University of Chicago"
-date: 2024-09 - 2024-12
+date: 2024-09-01
 location: "Chicago, U.S."
 ---
 
