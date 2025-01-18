@@ -19,9 +19,8 @@ author_profile: true
   balabala
 
 - **High-Dimensional Covariance Matrix Estimation with Auxiliary Network Information**  
-  Research Assistant. [Paper](https://www.repository.cam.ac.uk/items/d129df61-ef70-48bb-978c-a7326510e02f) (acknowledged for contributions to the theoretical section).  
+  Research Assistant. [Paper](https://www.repository.cam.ac.uk/items/d129df61-ef70-48bb-978c-a7326510e02f) (acknowledged for contributions).  
   **Advisor**: Prof. [Shaoran Li](https://lishaoran.com/)
   - Proposed a generalized class of bandable covariance matrices. It uses the ordering of the correlation coefficients as a proxy for spatial distance, which allows for a more general network structure.
   - Designed the Network Guided Thresholding framework and the Network Guided Banding framework.
-  - Proved the estimators' rate of convergence under operator norm $\|\cdot\|_2$ and Frobenius norm $\|\cdot\|_F$.
-• Conducted numerical simulations and compared error rates with nonlinear shrinkage and thresholding estimators.
+  - Proved the estimators' rate of convergence under operator norm  and Frobenius norm.  
