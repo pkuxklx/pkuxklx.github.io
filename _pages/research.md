@@ -9,11 +9,9 @@ author_profile: true
   Research Assistant & Master's Thesis. [Paper](../files/prodGr12.pdf).  
   **Time**: Mar 2024 - Present  
   **Advisor**: Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), Prof. [Ke Ye](https://people.ucas.edu.cn/~keyk)  
-  - This project is about decomposing the special orthogonal group $\text{SO}(n)$, the special unitary group SU(n), and the symplectic group Sp(2n) into the product of Grassmannains. Here the Grassmannians are characterized by the [involution model](https://www.stat.uchicago.edu/~lekheng/work/simpler.pdf).
-  - Characterized the product of two Grassmannians for both real and complex cases, and calculated their dimensions using
-the orbit-stabilizer theorem.
-  - Characterized the decomposition of SO(n) into two Grassmannians, and proved its existence and uniqueness.
-  - Characterized the decomposition of SU(n) into four Grassmannians, and proved its existence and uniqueness
+  - This project is about decomposing the special orthogonal group SO(n), the special unitary group SU(n), and the symplectic group Sp(2n) into the product of Grassmannains. Here the Grassmannians are characterized by the [involution model](https://www.stat.uchicago.edu/~lekheng/work/simpler.pdf).
+  - We showed that SO(n) is a product of two real Grassmannians, SU(n) a product of four complex Grassmannians, and Sp(2n) a product of four symplectic Grassmannians.
+  - My contribution is mainly on the decomposition of SU(n) into four Grassmannians. I characterize such decompositions and proved their uniqueness.
 
 - **Graph Neural Networks in Canonical Correlation Analysis**  
   Research Assistant.  
