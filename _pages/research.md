@@ -9,14 +9,19 @@ author_profile: true
   Research Assistant & Master's Thesis. [Paper](../files/prodGr12.pdf).  
   **Time**: Mar 2024 - Present  
   **Advisor**: Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), Prof. [Ke Ye](https://people.ucas.edu.cn/~keyk)  
-  - aaa
-  - bbb
+  - This project is about decomposing the special orthogonal group SO(n), the special unitary group SU(n), and the symplectic group Sp(2n) into the product of Grassmannains. Here the Grassmannians are characterized by the [involution model](https://www.stat.uchicago.edu/~lekheng/work/simpler.pdf).
+• Characterized the product of two Grassmannians for both real and complex cases, and calculated their dimensions using
+the orbit-stabilizer theorem.
+• Characterized the decomposition of SO(n) into two Grassmannians, and proved its existence and uniqueness.
+• Characterized the decomposition of SU(n) into four Grassmannians, and proved its existence and uniqueness
 
 - **Graph Neural Networks in Canonical Correlation Analysis**  
   Research Assistant.  
   **Time**: Jul 2024 - Present  
   **Advisor**: Prof. [Claire Donnat](https://donnate.github.io/)  
-  balabala
+  - Designed the GNN-CCA model, using GNN as the nonlinear mapping in Deep CCA. Developed linear-time evaluation algorithms for computations, as well as a stochastic training framework.
+  - Tested our model on the UCI handwritten digits clustering and the Twitter friend recommendation tasks.
+  - Neural Tangent Kernels
 
 - **High-Dimensional Covariance Matrix Estimation with Auxiliary Network Information**  
   Research Assistant. [Paper](https://www.repository.cam.ac.uk/items/d129df61-ef70-48bb-978c-a7326510e02f) (acknowledged for contributions).  
