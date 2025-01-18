@@ -19,4 +19,4 @@ author_profile: true
 
 - **High-Dimensional Covariance Matrix Estimation with Auxiliary Network Information**  
   Research Assistant. [Paper](https://www.repository.cam.ac.uk/items/d129df61-ef70-48bb-978c-a7326510e02f) (acknowledged for contributions to the theoretical section).  
-  **Advisor**: Prof. [Shaoran Li](https://lishaoran.com/)
+  **Advisor**: Prof. [Shaoran Li](https://lishaoran.com/)  
