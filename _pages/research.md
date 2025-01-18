@@ -17,7 +17,7 @@ author_profile: true
   Research Assistant.  
   **Time**: Jul 2024 - Present  
   **Advisor**: Prof. [Claire Donnat](https://donnate.github.io/)  
-  - Designed the GNN-CCA model, using Graph Neural Networks (GNNs) as the nonlinear mapping in Deep Canonical Correlation Analysis.
+  - Designed the GNN-CCA model, using Graph Neural Networks (GNNs) as the nonlinear mapping in Deep Canonical Correlation Analysis (Deep CCA).
   - Developed numerical algorithms for computations, as well as a stochastic training framework.
   - Tested our model on the UCI handwritten digits clustering and the Twitter friend recommendation tasks.
   - Analyze the generalization properties of our model.
