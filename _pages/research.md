@@ -17,16 +17,17 @@ author_profile: true
   Research Assistant.  
   **Time**: Jul 2024 - Present  
   **Advisor**: Prof. [Claire Donnat](https://donnate.github.io/)  
-  - Designed the GNN-CCA model, using GNN as the nonlinear mapping in Deep CCA. Developed linear-time evaluation algorithms for computations, as well as a stochastic training framework.
+  - Designed the GNN-CCA model, using Graph Neural Networks (GNNs) as the nonlinear mapping in Deep Canonical Correlation Analysis.
+  - Developed numerical algorithms for computations, as well as a stochastic training framework.
   - Tested our model on the UCI handwritten digits clustering and the Twitter friend recommendation tasks.
-  - Neural Tangent Kernels
+  - Analyze the generalization properties of our model.
 
 - **High-Dimensional Covariance Matrix Estimation with Auxiliary Network Information**  
   Research Assistant. [Paper](https://www.repository.cam.ac.uk/items/d129df61-ef70-48bb-978c-a7326510e02f) (acknowledged for contributions).  
   **Advisor**: Prof. [Shaoran Li](https://lishaoran.com/)
   - Proposed a generalized class of bandable covariance matrices. It uses the ordering of the correlation coefficients as a proxy for spatial distance, which allows for a more general network structure.
   - Designed the Network Guided Thresholding framework and the Network Guided Banding framework.
-  - Proved the estimators' rate of convergence under operator norm  and Frobenius norm.
+  - Proved the estimators' rate of convergence under operator norm and Frobenius norm.
  
 - **Multiple Imputation from an Algorithmic Perspective**  
   **Advisor**: Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/)  
