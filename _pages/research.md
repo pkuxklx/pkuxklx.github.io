@@ -11,5 +11,8 @@ author_profile: true
   **Advisor**: Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), Prof. [Ke Ye](https://people.ucas.edu.cn/~keyk)  
   balabalabala
 
-- **CCA-GNN**
-  **Time**
+- **Graph Neural Networks in Canonical Correlation Analysis**  
+  Research Assistant.  
+  **Time**: Jul 2024 - Present  
+  **Advisor**: Prof. [Claire Donnat](https://donnate.github.io/)  
+  balabala
