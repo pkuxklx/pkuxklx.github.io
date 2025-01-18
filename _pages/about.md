@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! :wave: My name is Xiang Lu (陆翔), a second-year master student in the School of Statistics, the University of Chicago. 
+Hi! :wave: My name is Xiang Lu (陆翔), a second-year master's student in the School of Statistics at the University of Chicago. 
 I'm fortunate to be advised by Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/) and Prof. [Claire Donnat](https://donnate.github.io/). 
-Prior to that, I obtained my bachelor's degreee from the School of Electronics Engineering and Computer Science, Peking University. My undergraduate research advisor is Prof. [Shaoran Li](https://lishaoran.com/).
+Prior to that, I earned my bachelor's degreee from the School of Electronics Engineering and Computer Science at Peking University. My undergraduate research advisor is Prof. [Shaoran Li](https://lishaoran.com/).
 
 Research Interests
 =====
