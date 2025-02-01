@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **Special Orthogonal, Special Unitary, and Symplectic Groups as Products of Grassmannians**  
-  Research Assistant & Master's Thesis. [Paper](../files/prodGr12.pdf).  
+  Research Assistant & Master's Thesis. [Preprint arXiv:2501.18172](https://arxiv.org/abs/2501.18172).  
   **Time**: Mar 2024 - Present  
   **Advisor**: Prof. [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/), Prof. [Ke Ye](https://people.ucas.edu.cn/~keyk)  
   - This project is about decomposing the special orthogonal group SO(n), the special unitary group SU(n), and the symplectic group Sp(2n) into the product of Grassmannains. Here the Grassmannians are characterized by the [involution model](https://www.stat.uchicago.edu/~lekheng/work/simpler.pdf).
